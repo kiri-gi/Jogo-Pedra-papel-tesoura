@@ -1,0 +1,27 @@
+h1, p {
+    text-align: center;
+    font-family: Arial;
+}
+
+h1 {
+    font-size: 32px;
+    margin-top: 24px;
+    margin-bottom: 26px;
+}
+
+p {
+    font-size: 24px;
+}
+
+button {
+    font-size: 72px;
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+}
+
+div {
+    margin: 0 auto;
+    margin-bottom: 60px;
+    width: fit-content;
+}
